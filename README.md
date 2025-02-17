@@ -153,7 +153,7 @@ export class AppComponent implements OnInit,OnDestroy {
 }
 ```
 
-### ***GameService.ts**
+### **GameService.ts**
 
 ```typscript
 export class StoryService {
